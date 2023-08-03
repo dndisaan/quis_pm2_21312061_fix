@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'dart:ui';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:tugas1_21312061/utils.dart';
-import 'package:tugas1_21312061/page-1/21312061_tugas1.dart';
+import 'package:quiz_pm2_21312061_fix/utils.dart';
+import 'package:quiz_pm2_21312061_fix/page-1/21312061_tugas1.dart';
 
 void main() => runApp(MyApp());
 
